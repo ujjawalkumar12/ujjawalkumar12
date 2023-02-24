@@ -1,4 +1,4 @@
-![logo](https://github.com/ujjawalkumar12/ujjawalkumar12/blob/main/industrial-data-scientist-the-new-limb-of-industrial-workforce.jpg)
+![logo](https://github.com/ujjawalkumar12/ujjawalkumar12/blob/main/data%20scientist.png)
 <h1 align="center">Hi 👋, I'm ujjawal kumar</h1>
 <h3 align="center">A passionate data scientist from India</h3>
 
